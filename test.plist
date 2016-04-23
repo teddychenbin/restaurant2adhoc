@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.5.189:5502/form/account/test.ipa</string>
+					<string>https://raw.githubusercontent.com/teddychenbin/restaurant2adhoc/master/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.5.189:5502/form/account/test.png</string>
+					<string>https://raw.githubusercontent.com/teddychenbin/restaurant2adhoc/master/test.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.5.189:5502/form/account/test.jpg</string>
+					<string>https://raw.githubusercontent.com/teddychenbin/restaurant2adhoc/master/test.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
